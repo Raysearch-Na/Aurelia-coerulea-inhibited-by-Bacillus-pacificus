@@ -1,9 +1,36 @@
-# Aurelia-coerulea-inhibited-by-Bacillus-pacificus
-Microbiome and metabolomics provide insights into the metamorphosis and settlement in the jellyfish Aurelia coerulea inhibited by Bacillus pacificus
-This repository contains the source code and processed datasets for the study on the inhibitory effects of Bacillus pacificus on Aurelia coerulea.
-Manuscript Information
-Title: Microbiome and metabolomics provide insights into the metamorphosis and settlement in the jellyfish Aurelia coerulea inhibited by Bacillus pacificus
+Aurelia-coerulea-inhibited-by-Bacillus-pacificus
+# Microbiome and metabolomics provide insights into the metamorphosis and settlement in the jellyfish Aurelia coerulea inhibited by Bacillus pacificus
 
-Journal: Marine Pollution Bulletin (Manuscript Ref: MPB-D-25-03709)
+# Journal: Marine Pollution Bulletin 
 
-Taxonomic Note: The inhibitory strain SG15 was initially identified as Bacillus paramycoides but has been corrected to Bacillus pacificus based on full-length 16S rRNA gene sequencing results.
+## Repository Structure
+The files are organized within the Github_upload directory as follows:
+
+Github_upload/
+├── data                # Contains 4 processed data files
+└── script              # Contains 5 analysis scripts
+README.md               # This documentation file
+LICENSE                 # MIT License file
+
+## Usage and Requirements
+
+### Software Requirements
+The analyses were performed using R 4.5.2. Ensure you have the necessary libraries installed.
+|
+├── data/               # Contains 4 processed data files
+│   └── (e.g., ASV tables, microbial community metrics, and metabolomic profiles)
+├── script/             # Contains 5 analysis scripts
+│   └── (Scripts for 16S rRNA diversity analysis, metabolomics stats, and networks)
+├── README.md           # This documentation file
+└── LICENSE             # MIT License file
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For questions regarding the code or data, please contact:
+
+Author:
+[Xiangrui Guo] - [gxr2000Rui@ytu.edu.cn]
+Correspongding Author
+[Yanying Zhang] - [zhyanying@ytu.edu.cn]
