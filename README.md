@@ -6,23 +6,18 @@ Aurelia-coerulea-inhibited-by-Bacillus-pacificus
 ## Repository Structure
 The files are organized within the Github_upload directory as follows:
 
+```
 Github_upload/
 ├── data                # Contains 4 processed data files
 └── script              # Contains 5 analysis scripts
 README.md               # This documentation file
 LICENSE                 # MIT License file
+```
 
 ## Usage and Requirements
 
 ### Software Requirements
 The analyses were performed using R 4.5.2. Ensure you have the necessary libraries installed.
-|
-├── data/               # Contains 4 processed data files
-│   └── (e.g., ASV tables, microbial community metrics, and metabolomic profiles)
-├── script/             # Contains 5 analysis scripts
-│   └── (Scripts for 16S rRNA diversity analysis, metabolomics stats, and networks)
-├── README.md           # This documentation file
-└── LICENSE             # MIT License file
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
