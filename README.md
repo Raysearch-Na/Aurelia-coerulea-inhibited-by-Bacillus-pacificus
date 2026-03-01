@@ -25,9 +25,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For questions regarding the code or data, please contact:
 
-```
+
 Author:
 [Xiangrui Guo] - [gxr2000Rui@ytu.edu.cn]
 Correspongding Author
 [Yanying Zhang] - [zhyanying@ytu.edu.cn]
-```
+
