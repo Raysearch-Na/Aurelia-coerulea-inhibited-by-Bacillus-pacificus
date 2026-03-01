@@ -14,9 +14,8 @@ README.md               # This documentation file
 LICENSE                 # MIT License file
 ```
 
-## Usage and Requirements
 
-### Software Requirements
+## Software Requirements
 The analyses were performed using R 4.5.2. Ensure you have the necessary libraries installed.
 
 ## License
